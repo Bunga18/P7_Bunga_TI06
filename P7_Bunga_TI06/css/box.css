@@ -1,0 +1,37 @@
+.box1{
+background-color: lightblue;
+width: 20%;
+float: left;
+margin: 3% 2.5%;
+height: 600px;
+}
+
+.box2{ 
+background-color: lightgoldenrodyellow;
+width: 20%;
+float: left; 
+margin: 3% 2.5%;
+height: 600px;
+
+}
+
+.box3{
+background-color: lightpink;
+width: 20%;
+float: left;
+margin: 3% 2.5%;
+height: 600px;
+}
+
+.box4{ 
+background-color: lightskyblue;
+width: 20%;
+float: left;
+margin: 3% 2.5%;
+height: 600px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
